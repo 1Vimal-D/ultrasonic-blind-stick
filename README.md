@@ -18,7 +18,7 @@ Breadboard
 
 Power Supply (Battery or USB)
 
-⚙️ How It Works
+How It Works
 The ultrasonic sensor sends out ultrasonic pulses.
 
 It measures the time taken for the echo to return after hitting an obstacle.
@@ -39,10 +39,10 @@ Buzzer → Pin 8
 
 VCC/GND of all components → Arduino 5V/GND
 
-📄 Code
+Code
 You can find the full code in the ultrasonic_blind_stick.ino file.
 
-🚀 Future Improvements
+Future Improvements
 Add vibration motor for silent feedback
 
 Include a rechargeable battery pack
